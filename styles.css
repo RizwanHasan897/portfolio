@@ -120,6 +120,7 @@ h1 {
     padding-right: .5em;
     border-right: 1px solid #fff;
     color: #fff;
+    text-wrap: nowrap;
 }
 
 .experiance-info{
