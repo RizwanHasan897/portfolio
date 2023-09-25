@@ -116,7 +116,6 @@ h1 {
 .experinace-year{
     font-size: .9rem;
     max-width: 30%;
-    text-wrap: nowrap;
     margin-right: 2em;
     padding-right: .5em;
     border-right: 1px solid #fff;
@@ -149,9 +148,7 @@ h1 {
     font-size: .8em;
     color: #49b9b2;
     margin-left: .5em;
-    padding: .4em .5em;
     align-self: center;
-    text-wrap: nowrap;
     border-radius: 10px;
 }
 
