@@ -120,7 +120,7 @@ h1 {
     padding-right: .5em;
     border-right: 1px solid #fff;
     color: #fff;
-    text-wrap: nowrap;
+    min-width: 25%;
 }
 
 .experiance-info{
@@ -164,6 +164,7 @@ h1 {
     height: 6em;
     object-fit: contain;
     margin-right: 1em;
+    min-width: 20%;
 }
 
 .project-deets{
