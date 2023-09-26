@@ -178,6 +178,13 @@ h1 {
     margin-bottom: .5em;
 }
 
+.project-view{
+    display: flex;
+    gap: 1em;
+    filter: invert(100%);
+
+}
+
 .flashlight{
     background-color: #fff;
     height: 150px;
@@ -217,6 +224,11 @@ h1 {
     .experience-div, .project-div {
         padding: 1em;
         flex-direction: column;
+    }
+
+    .project-view {
+        margin-top: 1em;
+        align-self: center;
     }
     
 }
